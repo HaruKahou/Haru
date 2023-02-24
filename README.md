@@ -1,2 +1,0 @@
-# Haru
-#Editing the file
